@@ -1,0 +1,24 @@
+.header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: left;
+}
+
+.site-name {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.site-symbol {
+    font-size: 36px;
+    margin: 0 20px;
+}
+
+.button-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-group button {
+    margin: 0 10px;
+}
